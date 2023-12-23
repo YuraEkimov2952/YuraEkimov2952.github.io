@@ -1,7 +1,7 @@
 body {
     font-family: Arial, sans-serif;
     background-color: #f13c20;
-    color: #f13c20;
+    color: #000;
     margin: 0;
     padding: 0;
 }
@@ -40,7 +40,7 @@ nav li {
 
 nav a {
     text-decoration: none;
-    color: #f13c20;
+    color: #fff;
 }
 
 main {
